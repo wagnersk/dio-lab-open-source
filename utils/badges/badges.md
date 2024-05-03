@@ -712,7 +712,7 @@
         <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase">
       </td>
       <td>
-        <code>![Firebase](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28)</code>
+        <code>![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28)</code>
       </td>
     </tr>
      <tr>
